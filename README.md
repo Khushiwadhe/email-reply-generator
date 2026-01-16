@@ -1,6 +1,6 @@
 AI-Powered Email Reply Generator
 
-Spring Boot · Spring AI · Gemini API · React
+Spring Boot · Spring AI · Gemini API · React   
 
 
 
@@ -12,7 +12,7 @@ The project emphasizes clean API design, AI integration best practices, and prod
 
 
 
-Key Features
+Key  Features
 
 Generate context-aware email replies using AI
 
